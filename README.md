@@ -286,3 +286,5 @@ Primary keys are essential because they give every row a stable, unique address 
 - `seed.sql` is committed because it is plain text, version-controlled, and is the single source of truth for the database structure and starting data.
 - Do not force-push or overwrite existing Git history.
 - Do not commit or push without the student's explicit authorisation.
+#   e x p r e s s . j s _ l a b _ 2  
+ 
